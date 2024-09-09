@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Junior Full-Stack Web Developer from Florida. I am currently focusing on solidifying my front-end skills to create fully responsive web applications. I also am looking for my first job opportunity to help cultivate my skills and become an accomplished developer. I first graduated from a Full-Stack Bootcamp and am filling the gaps I have from the fast-paced nature of the Bootcamp. I love the challenge of learning and growing my skills and confidence in web development. If you want to collaborate send me a DM on LinkedIn or email me at harrisonminer59@gmail.com.
+I am a Junior Full-Stack Web Developer from Florida. I am currently focusing on solidifying my front-end skills to create fully responsive web applications. My current goal is to secure a full-time position utilizing the skills I have obtained thus far. I first graduated from a full-stack boot camp hosted by The University of Central Florida. I love the challenge of learning and growing my skills and confidence in web development. If you want to collaborate, send me a DM on LinkedIn or email me at harrisonminer59@gmail.com.
 
 
 ## 🌐 Socials:
