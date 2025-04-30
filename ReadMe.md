@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Junior Full-Stack Web Developer from Florida. I am currently focusing on solidifying my front-end skills to create fully responsive web applications. My current goal is to secure a full-time position utilizing the skills I have obtained thus far. I first graduated from a full-stack boot camp hosted by The University of Central Florida. I love the challenge of learning and growing my skills and confidence in web development. If you want to collaborate, send me a DM on LinkedIn or email me at harrisonminer59@gmail.com.
+Full-stack developer with practical experience in HTML, CSS, JavaScript, Python, and hands-on exposure to React, WordPress, Node.js, MySQL, and API integration. A fast learner with a strong work ethic and a proven ability to adapt to new technologies. Completed an intensive full-stack boot camp, building a solid foundation across front-end and back-end development. Strong work ethic and dedicated to delivering high-quality solutions, continuous improvement, and driving team success.
 
 
 ## 🌐 Socials:
