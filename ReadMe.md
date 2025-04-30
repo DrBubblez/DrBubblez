@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack developer with practical experience in HTML, CSS, JavaScript, Python, and hands-on exposure to React, WordPress, Node.js, MySQL, and API integration. A fast learner with a strong work ethic and a proven ability to adapt to new technologies. Completed an intensive full-stack boot camp, building a solid foundation across front-end and back-end development. Strong work ethic and dedicated to delivering high-quality solutions, continuous improvement, and driving team success.
+Full-stack developer with practical experience in HTML, CSS, JavaScript, Python, and hands-on exposure to React, WordPress, Node.js, MySQL, and API integration. A fast learner with a strong work ethic and a proven ability to adapt to new technologies. Completed an intensive full-stack boot camp, building a solid foundation across front-end and back-end development. Dedicated to delivering high-quality solutions, continuous improvement, and driving team success.
 
 
 ## 🌐 Socials:
